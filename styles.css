@@ -1,0 +1,28 @@
+.info {
+    float: left;
+    width: 28%;
+    text-align: center;
+    color: darkblue;
+}
+
+.description {
+    float: right;
+    width: 70%;
+    padding-top: 5%;
+    font-family: "Copperplate Gothic Light";
+    font-size: 16px;
+}
+
+a {
+    border: 1px;
+    border-radius: 10px;
+    padding: 5px 20px;
+    text-decoration: none;
+    box-shadow: 5px 3px 4px 2px gray;
+    color: indigo;
+}
+
+a:hover {
+    color: green;
+    border: solid 1px;
+}
